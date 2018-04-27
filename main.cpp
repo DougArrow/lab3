@@ -10,7 +10,7 @@ void main()
 	std::ofstream File("1.txt");
 	Sort *ptr;
 
-	ptr = new s_Cocktail(&File);
+	ptr = new s_bubble(&File);
 	ptr->work(isSize, size);
 	delete ptr;
 
