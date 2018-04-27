@@ -1,0 +1,56 @@
+Cocktail
+-------------------------
+Array Size = 1      Time = 0      Permutation: 0         Comparison: 0      
+Array Size = 2      Time = 0      Permutation: 1         Comparison: 0.56   
+Array Size = 3      Time = 0      Permutation: 3         Comparison: 1.44   
+Array Size = 4      Time = 0      Permutation: 6         Comparison: 2.96   
+Array Size = 5      Time = 0      Permutation: 10        Comparison: 4.84   
+Array Size = 10     Time = 0      Permutation: 45        Comparison: 22.34  
+Array Size = 15     Time = 0.01   Permutation: 105       Comparison: 51.99  
+Array Size = 20     Time = 0      Permutation: 190       Comparison: 96.59  
+Array Size = 25     Time = 0      Permutation: 300       Comparison: 149.8  
+Array Size = 30     Time = 0.01   Permutation: 435       Comparison: 217.77 
+Array Size = 50     Time = 0.02   Permutation: 1225      Comparison: 613.14 
+Array Size = 75     Time = 0.03   Permutation: 2775      Comparison: 1371.37
+Array Size = 100    Time = 0.04   Permutation: 4950      Comparison: 2505.15
+Array Size = 250    Time = 0.26   Permutation: 31125     Comparison: 15526.7
+Array Size = 500    Time = 1.45   Permutation: 124750    Comparison: 62216.1
+-------------------------
+
+Comb
+-------------------------
+Array Size = 1      Time = 0      Permutation: 0         Comparison: 0      
+Array Size = 2      Time = 0      Permutation: 0         Comparison: 0      
+Array Size = 3      Time = 0      Permutation: 0.51      Comparison: 1.51   
+Array Size = 4      Time = 0      Permutation: 1.37      Comparison: 4.74   
+Array Size = 5      Time = 0      Permutation: 3.02      Comparison: 9.45   
+Array Size = 10     Time = 0      Permutation: 17.55     Comparison: 56     
+Array Size = 15     Time = 0      Permutation: 40.72     Comparison: 129.69 
+Array Size = 20     Time = 0.01   Permutation: 72.43     Comparison: 228.92 
+Array Size = 25     Time = 0.01   Permutation: 113.34    Comparison: 361.95 
+Array Size = 30     Time = 0.01   Permutation: 154.67    Comparison: 520.04 
+Array Size = 50     Time = 0.04   Permutation: 365.3     Comparison: 1283.92
+Array Size = 75     Time = 0.07   Permutation: 729.12    Comparison: 2939.91
+Array Size = 100    Time = 0.08   Permutation: 1147.72   Comparison: 4883.16
+Array Size = 250    Time = 0.39   Permutation: 5070.01   Comparison: 29016.4
+Array Size = 500    Time = 1.59   Permutation: 15938.7   Comparison: 114998 
+-------------------------
+
+Radix
+-------------------------
+Array Size = 1      Time = 0      Permutation: 9.22      Comparison: 4.61   
+Array Size = 2      Time = 0.01   Permutation: 14.85     Comparison: 4.95   
+Array Size = 3      Time = 0.01   Permutation: 19.84     Comparison: 4.96   
+Array Size = 4      Time = 0      Permutation: 24.9      Comparison: 4.98   
+Array Size = 5      Time = 0      Permutation: 30        Comparison: 5      
+Array Size = 10     Time = 0      Permutation: 55        Comparison: 5      
+Array Size = 15     Time = 0      Permutation: 80        Comparison: 5      
+Array Size = 20     Time = 0      Permutation: 105       Comparison: 5      
+Array Size = 25     Time = 0.01   Permutation: 130       Comparison: 5      
+Array Size = 30     Time = 0.02   Permutation: 155       Comparison: 5      
+Array Size = 50     Time = 0.03   Permutation: 255       Comparison: 5      
+Array Size = 75     Time = 0.03   Permutation: 380       Comparison: 5      
+Array Size = 100    Time = 0.03   Permutation: 505       Comparison: 5      
+Array Size = 250    Time = 0.08   Permutation: 1255      Comparison: 5      
+Array Size = 500    Time = 0.17   Permutation: 2505      Comparison: 5      
+-------------------------
