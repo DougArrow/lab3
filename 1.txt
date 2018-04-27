@@ -1,4 +1,4 @@
-Cocktail
+Bubble
 -------------------------
 Array Size = 1      Time = 0      Permutation: 0         Comparison: 0      
 Array Size = 2      Time = 0      Permutation: 1         Comparison: 0.56   
